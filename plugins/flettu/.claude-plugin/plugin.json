@@ -1,0 +1,10 @@
+{
+  "name": "flettu",
+  "version": "1.0.0",
+  "description": "Research Icelandic companies with Flettu: annual-report figures with their source and page, ownership, boards and industries.",
+  "author": { "name": "Flettu", "email": "flettu@flettu.is", "url": "https://flettu.is" },
+  "homepage": "https://flettu.is/tengingar",
+  "repository": "https://github.com/pbidhjorvar/flettu-claude-plugin",
+  "license": "MIT",
+  "keywords": ["iceland", "companies", "kennitala", "annual-reports", "financials", "ársreikningar", "fyrirtæki"]
+}

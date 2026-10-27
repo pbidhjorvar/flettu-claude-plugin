@@ -1,0 +1,15 @@
+{
+  "name": "flettu",
+  "owner": { "name": "Flettu", "email": "flettu@flettu.is", "url": "https://flettu.is" },
+  "metadata": { "description": "Flettu: Icelandic company research for Claude Code." },
+  "plugins": [
+    {
+      "name": "flettu",
+      "source": "./plugins/flettu",
+      "description": "Research Icelandic companies: annual-report figures with their source and page, ownership, boards and industries.",
+      "version": "1.0.0",
+      "category": "data",
+      "homepage": "https://flettu.is/tengingar"
+    }
+  ]
+}
