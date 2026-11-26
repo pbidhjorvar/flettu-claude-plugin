@@ -42,9 +42,11 @@ No API key is needed.
 - **Icelandic formatting.** Millions of krónur as `502 m.kr.`, billions as
   `1,6 ma.kr.`; decimal comma, full stop for thousands (`13.196`). Kennitala
   as `541205-1520`.
-- **Link** each company to its page:
-  `https://flettu.is/fyrirtaeki/<name-slug>-<kennitala>`, or
-  `https://flettu.is/leit?view=company&company=<kennitala>`.
+- **Link** each company with the `page` or `company_url` the tools return.
+  Never build a flettu.is URL yourself.
+- **Cite** a figure's `source.pdf_url` (rows from `query_companies` and
+  `compare_companies` carry `sources: {metric: {...}}`), or name the document
+  and page.
 - **People.** Flettu does not give personal data about private individuals.
 
 ## When the data is not there yet

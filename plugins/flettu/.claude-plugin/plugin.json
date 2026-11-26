@@ -1,6 +1,6 @@
 {
   "name": "flettu",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Research Icelandic companies with Flettu: annual-report figures with their source and page, ownership, boards and industries.",
   "author": { "name": "Flettu", "email": "flettu@flettu.is", "url": "https://flettu.is" },
   "homepage": "https://flettu.is/tengingar",
