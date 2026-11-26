@@ -24,6 +24,15 @@ browser. No API key is needed. You can revoke the connection at any time on
 - **MCP connection** to `https://flettu.is/api/mcp` (HTTP, OAuth sign-in).
 - **Skill `flettu-research`:** when to use which Flettu tool, and how to present
   Icelandic financial figures (periods, groups, units, Icelandic number format).
+- **Task skills**, each with its tool sequence, checks and deliverable format:
+  - `company-snapshot`: one-page profile with five years of sourced figures.
+  - `peer-comparison`: peers by ÍSAT and size, side by side with sources.
+  - `credit-check`: liquidity, solvency and profitability with warning signs
+    stated as facts. No scores or ratings.
+  - `ownership-map`: owners, board and auditor; namesakes kept apart.
+  - `customer-list-screen`: a list of kennitölur screened for warnings.
+  - `industry-report`: totals, medians and leaders of an ÍSAT industry.
+  - `filing-finder`: which reports were filed and when; read a page.
 
 ## Try asking
 
